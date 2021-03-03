@@ -1,1 +1,1 @@
-# .net-Core-MySql-Code-First-POCO-
+# .net-Core-MySql-Code-First
