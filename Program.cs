@@ -9,7 +9,7 @@ namespace MySql_Code_First
         {
             try
             {
-                new ExperimentContext("server=localhost;User Id=root;Database=test;Port=3306;").Database.EnsureCreated();
+                new ExperimentContext("server=localhost;User Id=root;Database=Experiment;Port=3306;").Database.EnsureCreated();
                 Console.WriteLine("Success");
             }
             catch (Exception ex)
